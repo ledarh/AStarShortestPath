@@ -40,10 +40,6 @@ Echo      ~   ~   6   4   2   ~
 The the following are the UML diagrams of the classes utilized:
 
 <picture>
-  <source srcset="boilerplate_classes_UML.png">
-  <img alt="The UML diagram documentation of relevent classes used in the project. Please view using an image-capable browser." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="boilerplate_classes_UML-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="boilerplate_classes_UML.png">
   <img alt="The UML diagram documentation of relevent classes used in the project. Please view using an image-capable browser." src="boilerplate_classes_UML.png">
