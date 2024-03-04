@@ -2,6 +2,7 @@
 <h4> <span> · </span> <a href="https://github.com/ledarh/A* Search Shortest Path Java/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/ledarh/A* Search Shortest Path Java/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/ledarh/A* Search Shortest Path Java/issues"> Request Feature </a> </h4>
 
 
+
 # :notebook_with_decorative_cover: Documentation
 This program reads a textfile composed interpreted as graph data and then uses the A* Shortest Path Algorithm to determine the shortest path from the node with `val` attribute `S` to node `G`.
 
@@ -32,6 +33,9 @@ Echo      ~   ~   6   4   2   ~
 * _Node_ is a class whose objects represent nodes (a.k.a., vertices) in the graph.
 * _Edge_ is a class whose objects represent edges (a.k.a., arcs) between nodes of the graph.  Note that each edge has a direction.  It goes from one specific node to another specific node.
 
+
+> [!NOTE]
+> See Deliv_D_spec.docx, Architexture.docx for further documentation of boilerplate architexture and specific class behaviors/intended uses.
 # UML Diagram
 The the following are the UML diagrams of the classes utilized:
 
@@ -42,7 +46,7 @@ The the following are the UML diagrams of the classes utilized:
 
 
 ## :star2: About the Project 
-This java implementation of A* Shortest Path in Java was originally written for a 300-level undergraduate computer science course. This program was developed by myself in conjunction with the relevent course and accompanying documentation materials have been adapted from the originals originally created by Mike Stein.
+This java 18 SE implementation of A* Shortest Path in Java was originally written for a 300-level undergraduate computer science course. This program was developed by myself in conjunction with the relevent course and accompanying documentation materials have been adapted from the originals originally created by Mike Stein.
 
 
 
