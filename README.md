@@ -1,5 +1,5 @@
 # Ledarh's A* Search Shortest Path algorithm
-<h4> <span> · </span> <a href="https://github.com/ledarh/A* Search Shortest Path Java/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/ledarh/A* Search Shortest Path Java/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/ledarh/A* Search Shortest Path Java/issues"> Request Feature </a> </h4>
+<h4> <span> · </span> <a href="https://github.com/ledarh/AStarShortestPath/blob/main/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/ledarh/AStarShortestPath/issues"> Report Bug </a></h4>
 
 
 
