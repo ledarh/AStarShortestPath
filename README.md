@@ -1,9 +1,9 @@
 # Ledarh's A* Search Shortest Path algorithm
-<h4> <span> · </span> <a href="https://github.com/ledarh/AStarShortestPath/blob/main/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/ledarh/AStarShortestPath/issues"> Report Bug </a></h4>
 
 
 
-# :notebook_with_decorative_cover: Documentation
+
+## :notebook_with_decorative_cover: Documentation
 This program reads a textfile composed interpreted as graph data and then uses the A* Shortest Path Algorithm to determine the shortest path from the node with `val` attribute `S` to node `G`.
 
 ```
@@ -36,7 +36,7 @@ Echo      ~   ~   6   4   2   ~
 
 > [!NOTE]
 > See Deliv_D_spec.docx, Architexture.docx for further documentation of boilerplate architexture and specific class behaviors/intended uses.
-# UML Diagram
+## UML Diagram
 The the following are the UML diagrams of the classes utilized:
 
 <picture>
@@ -46,7 +46,7 @@ The the following are the UML diagrams of the classes utilized:
 </picture>
 
 
-## :star2: About the Project 
+### :star2: About the Project 
 This java 18 SE implementation of A* Shortest Path in Java was originally written for a 300-level undergraduate computer science course. This program was developed by myself in conjunction with the relevent course and accompanying documentation materials have been adapted from the originals originally created by Mike Stein.
 
 
@@ -59,7 +59,7 @@ This java 18 SE implementation of A* Shortest Path in Java was originally writte
 
 
 
-## :handshake: Contact
+### :handshake: Contact
 
 Kelly Higgins - [@HiggKelly](https://twitter.com/HiggKelly) - higginskm@proton.me
 
